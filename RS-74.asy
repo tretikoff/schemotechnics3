@@ -1,0 +1,38 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -80 -32 -48 -32
+LINE Normal -48 0 -80 0
+LINE Normal -48 32 -81 32
+LINE Normal 49 16 17 16
+LINE Normal 47 -16 16 -16
+LINE Normal 48 -16 47 -16
+LINE Normal -16 80 -16 112
+LINE Normal -44 1 -48 5
+LINE Normal -48 -4 -44 1
+RECTANGLE Normal 17 80 -48 -48
+CIRCLE Normal -13 83 -18 78
+CIRCLE Normal 21 19 14 12
+TEXT -39 66 Left 2 CLR
+TEXT -43 33 Left 2 R
+TEXT -44 0 Left 2 C
+TEXT -42 -33 Left 2 S
+TEXT -8 -16 Left 2 Q
+TEXT -6 15 Left 2 Q
+PIN -80 -32 NONE 8
+PINATTR PinName S
+PINATTR SpiceOrder 1
+PIN -80 0 NONE 8
+PINATTR PinName C
+PINATTR SpiceOrder 2
+PIN -80 32 NONE 8
+PINATTR PinName R
+PINATTR SpiceOrder 3
+PIN 48 -16 NONE 8
+PINATTR PinName Q
+PINATTR SpiceOrder 4
+PIN 48 16 NONE 8
+PINATTR PinName NQ
+PINATTR SpiceOrder 5
+PIN -16 112 NONE 8
+PINATTR PinName CLR
+PINATTR SpiceOrder 6
