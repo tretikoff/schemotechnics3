@@ -17,7 +17,7 @@ TEXT -43 33 Left 2 R
 TEXT -44 0 Left 2 C
 TEXT -42 -33 Left 2 S
 TEXT -8 -16 Left 2 Q
-TEXT -6 15 Left 2 Q
+TEXT -6 15 Left 2 NQ
 PIN -80 -32 NONE 8
 PINATTR PinName S
 PINATTR SpiceOrder 1
